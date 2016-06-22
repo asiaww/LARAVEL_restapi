@@ -1,5 +1,3 @@
-# https://bitbucket.org/kleimor/restapi/wiki/Instrukcja%20-%20Laravel%20RestApi #
-
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
